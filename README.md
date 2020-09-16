@@ -7,4 +7,3 @@ E-mail: pacocatech@gmail.com
  
  
 Leitura básica do potenciometro
-
